@@ -31,8 +31,9 @@ Currently, I am actively seeking opportunities where I can apply my skills in a 
 
 ---
 
+
 ## 🔥 GitHub Activity:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ashutoshxo&bg_color=ff0000&color=ffffff&line=ffffff&point=000000&area=true&hide_border=true)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshxo&theme=github_dark)
 
 ---
 
